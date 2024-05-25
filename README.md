@@ -1,2 +1,4 @@
 # Sudoku_Validator
-Python and Java code that will validate whether a Sudoku result is valid
+Python code that will validate whether a Sudoku result is valid
+
+Code run using Google Colab. 
